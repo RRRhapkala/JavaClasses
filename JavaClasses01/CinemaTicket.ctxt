@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CinemaTicket
+comment1.params=get_cinema_name\ get_film_title\ get_row\ get_seat\ get_price
+comment1.target=CinemaTicket(java.lang.String,\ java.lang.String,\ int,\ int,\ float)
+numComments=2

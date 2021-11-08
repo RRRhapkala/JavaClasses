@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=bankAccount
+comment1.params=get_name\ get_id\ get_money\ get_arrears\ get_cards
+comment1.target=bankAccount(java.lang.String,\ int,\ float,\ float,\ java.lang.String)
+comment2.params=add_money
+comment2.target=void\ getCash(float)
+comment3.params=check_card
+comment3.target=void\ PayWithCard(java.lang.String)
+comment4.params=new_name
+comment4.target=void\ ChangeName(java.lang.String)
+numComments=5
